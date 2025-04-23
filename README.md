@@ -20,6 +20,20 @@ This is a simple AI-powered chatbot web application for Bitlogicx, designed to p
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/bitlogicx-chatbot.git
-cd bitlogicx-chatbot
+    ```bash
+    git clone https://github.com/your-username/bitlogicx-chatbot.git
+    cd bitlogicx-chatbot
+## 2
+ Install dependencies
+     ```bash
+       pip install flask flask-cors
+
+# 3 Run the Flask server
+      ```bash
+      python app.py
+The API will be available at: http://127.0.0.1:5000
+
+
+## 4 4. Open the frontend
+Just open your index.html file in a browser.
+
